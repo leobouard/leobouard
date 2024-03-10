@@ -5,11 +5,14 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 
 **The best script is always the simplest 😉**
 
-### Statistics
+### Socials
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leobouard&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
+<a href="https://www.labouabouate.fr/"><img src="https://img.shields.io/badge/labouabouate?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/leo-bouard/"><img src="https://img.shields.io/badge/LinkedIn-leo-bouard.svg?logo=LinkedIn&style=flat-square"></a>
+</p>
 
 <!--
 **leobouard/leobouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
