@@ -9,9 +9,8 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
-<img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
-<a href="https://www.labouabouate.fr/"><img src="https://img.shields.io/badge/labouabouate?style=flat-square"></a>
-<a href="https://www.linkedin.com/in/leo-bouard/"><img src="https://img.shields.io/badge/LinkedIn-leo-bouard.svg?logo=LinkedIn&style=flat-square"></a>
+<a href="https://www.labouabouate.fr/"><img src="https://img.shields.io/badge/blog?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/leo-bouard/"><img src="https://img.shields.io/badge/LinkedIn?logo=LinkedIn&style=flat-square"></a>
 </p>
 
 <!--
