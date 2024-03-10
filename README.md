@@ -8,6 +8,7 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 ### Statistics
 
 <img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leobouard&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
