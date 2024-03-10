@@ -8,6 +8,10 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 ![Profile views](https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue)
 
 <!--
+
+- Mettre en avant les plus grosses réalisations
+- Socials : LinkedIn, Reddit et blog
+
 **leobouard/leobouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
