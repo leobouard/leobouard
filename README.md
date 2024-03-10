@@ -3,7 +3,7 @@
 I'm a French sysadmin who does stuff with PowerShell for Active Directory, Entra ID and M365.\
 Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scripts.
 
-The best script is always the simplest 😉
+<p style="text-align: center; font-size: x-large;">The best script is always the simplest 😉</p>
 
 <!--
 **leobouard/leobouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
