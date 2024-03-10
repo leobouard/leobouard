@@ -5,11 +5,7 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 
 **The best script is always the simplest 😉**
 
-### Socials
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue)
 
 <!--
 **leobouard/leobouard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
