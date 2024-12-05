@@ -7,6 +7,4 @@ Since I'm not that bad at HTML & CSS, I try to take advantage of it with my scri
 
 ![Profile views](https://komarev.com/ghpvc/?username=leobouard&style=flat-square&color=blue)
 
-## Links
-
-- [Gist](https://gist.github.com/leobouard/)
+See my snippets on [GitHub Gist](https://gist.github.com/leobouard/)
